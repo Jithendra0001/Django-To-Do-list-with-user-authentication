@@ -1,6 +1,6 @@
 # Django-To-Do-list-with-user-authentication
 
-* To Do list app with User Registration, Login, Search functionality  
+* To Do list app with User Registration, Login and Search functionality  
 * A user can Create, Read, Update, Search and Delete tasks.
 
 ### 1) Registration 
